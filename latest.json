@@ -1,9 +1,9 @@
 {
-    "sha256":  "563214a16cd54202e97bceec7e4ff4e7d852cc85e1235ea3c9d11ea154ba7be4",
-    "version":  "esp-hmi-0.4.3",
-    "rawDownloadUrl":  "https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v043.bin",
-    "downloadUrl":  "https://nolanpatrick.github.io/gyroStainer-releases/fw/v043.bin",
-    "notes":  "ESP32 HMI 0.4.3 release with latest-version update checks, reagent lifetime warnings, and HMI usability improvements.",
+    "sha256":  "228efd7779426b9d619a3393214d1acfe451a3d683c082a40945b5ac8a14eef8",
+    "version":  "esp-hmi-0.4.4",
+    "rawDownloadUrl":  "https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v044.bin",
+    "downloadUrl":  "https://nolanpatrick.github.io/gyroStainer-releases/fw/v044.bin",
+    "notes":  "ESP32 HMI 0.4.4 release with latest-version update checks, reagent lifetime warnings, and HMI usability improvements.",
     "releaseDate":  "2026-05-04",
-    "size":  1650432
+    "size":  1650512
 }
