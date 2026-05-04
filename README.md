@@ -1,29 +1,11 @@
 # GyroStainer Releases
-
-Public ESP32 firmware release assets for GyroStainer.
-
-## ESP HMI 0.4.4
-
-- Version: `esp-hmi-0.4.4`
-- Latest manifest: `https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/latest.json`
-- Recommended OTA URL: `https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v044.bin`
-- GitHub Pages URL: `https://nolanpatrick.github.io/gyroStainer-releases/fw/v044.bin`
-- GitHub Release page: `https://github.com/nolanpatrick/gyroStainer-releases/releases/tag/esp-hmi-0.4.4`
-- Size: `1650512` bytes
-- SHA-256: `228efd7779426b9d619a3393214d1acfe451a3d683c082a40945b5ac8a14eef8`
-
-## Previous Releases
-
-- ESP HMI 0.4.3: `https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v043.bin`
-- ESP HMI 0.4.2: `https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v042.bin`
-- ESP HMI 0.4.1: `https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v041.bin`
-- ESP HMI 0.4.0: `https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v040.bin`
-
-## Updating From Current Firmware
-
-1. Open the GyroStainer web UI.
-2. Go to **Settings > Software Update (OTA)**.
-3. Click **Check for Updates** to fill the latest released firmware URL, or paste a firmware URL manually.
-4. Click **Install Update**.
-5. Wait for reboot and reconnect.
-6. Confirm the software version is `esp-hmi-0.4.4`.
+Public ESP32 HMI firmware binaries for GyroStainer OTA updates.
+## Latest ESP32 HMI
+- Version: esp-hmi-0.4.5
+- Binary: fw/v045.bin
+- Raw OTA URL: https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v045.bin
+- Browser URL: https://nolanpatrick.github.io/gyroStainer-releases/fw/v045.bin
+- Size: 1650528 bytes
+- SHA-256: 02bbcf647db39b539bd5ae815ac82e8cc09eeec3c88cda6fc0ec017ecee5b080
+The machine web UI reads latest.json when Check for Updates is clicked.
+Release assets are also attached to matching GitHub Releases.
