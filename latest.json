@@ -1,9 +1,9 @@
 {
-    "version":  "esp-hmi-0.4.7",
+    "version":  "esp-hmi-0.4.8",
     "releaseDate":  "2026-05-05",
-    "downloadUrl":  "https://nolanpatrick.github.io/gyroStainer-releases/fw/v047.bin",
-    "rawDownloadUrl":  "https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v047.bin",
-    "sha256":  "430a8d0ee3658d36593022894362609974ec81e81154d1eb8f8167a752b7e33a",
-    "size":  1652064,
-    "notes":  "ESP32 HMI 0.4.7 release with LCD home status styling, Berlin timezone display, operator reagent age, and full brightness range."
+    "downloadUrl":  "https://nolanpatrick.github.io/gyroStainer-releases/fw/v048.bin",
+    "rawDownloadUrl":  "https://raw.githubusercontent.com/nolanpatrick/gyroStainer-releases/main/fw/v048.bin",
+    "sha256":  "0851b5ca814c0e267446f2ebb0edfd89476f2e0f8fc25eca81cbc1c219ca3ca3",
+    "size":  1652208,
+    "notes":  "ESP32 HMI 0.4.8 release with full-span web brightness slider and aligned LCD home summary columns."
 }
